@@ -1,0 +1,107 @@
+{
+	"planet":{
+
+		"earth": {
+
+			"circumference": "40,075.017_km",
+
+			"orbital_distance": "150,000,000_km",
+
+			"orbital_speed": "29.8_km/s",
+
+			"orbital_period": "365_days",
+
+			"day_lenght": "24_hours",
+
+			"mean_suface_temp.": "288K",
+
+			"surface_area": "510,072,000_km2",
+
+			"supports_life": "yes",
+
+			"dominant_spieces":{
+
+				"name": "homo_sapiens",
+				"population": "<7,000,000,000",
+				"kardashev_scale": ">typeI (0.724)",
+				"space_travel": "probe_inter_solarsystem",
+				"galactic_intelegance": "average",
+				"violence_level": "med-high"
+			},
+
+			"atmosphere":{
+
+				"composition": "N2-78%, O2-21%, other_elements-1%",
+
+				"exosphere": "700 to 10,000 km MSL",
+				"thermosphere": "80 to 700 km MSL",
+				"mesosphere": "50 to 80 km MSL",
+				"stratosphere": "12 to 50 km MSL",
+				"troposphere": "0 to 12 km MSL"
+				},
+
+			"surface":{
+
+				"land":{
+
+					"%_total_surface_area": "148,940,000 km2(29.2%)",
+
+					"continents":{
+
+						"north_america":{
+
+							},
+						"south_america":{
+
+							},
+						"africa":{
+
+							},
+						"europe":{
+
+							},
+						"asia":{
+
+							},
+						"australia":{
+
+							},
+						"antartcica":{
+							
+						}
+					}
+				},
+				"liquid_water_oceans":{
+
+					"%_total_surface_area": "361,132,000_km2(70.8%)",
+
+					"supports_life": "yes",
+
+					"oceans_by_area": {
+						"Arctic": "15,558,000_km2",
+
+						"Atlantic": "85,133,000_km2",
+
+						"Indian": "70,560,000_km2",
+
+						"Pacific": "168,723,000_km2",
+
+						"Southern": "21,960,000_km2"
+
+					}
+				}
+			},
+			"natural satellites":{
+
+				"luna":{
+
+					"supports_life": "no",
+					"circumference": "10921_km",
+					"orbital_distance": "384405_km",
+					"orbital_speed": "1.022_km/s",
+					"orbital_period": "27.321_days"					
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,105 @@
+{
+	"society": {
+
+		"japan":{
+
+			"National Foundation Day": "11 February 660 BC",
+
+			"capital": "tokyo",
+
+			"population": "126,919,659",
+
+			"government": {
+
+				"type": "multi-party parliamentary representative democratic constitutional monarchy",
+
+				"structure": {
+
+					"emperor": "the symbol of the State and of the unity of the people. He performs ceremonial duties and holds no real power",
+
+					"primeMinister": {
+
+						"cabinet": [
+
+							"executive branch"
+						]
+					}
+				}
+			},
+
+			"mainReligions": [
+
+				"Buddhism",
+				"Shinto"
+			],
+
+			"economy": {
+
+				"gpd_2015est.":{
+
+					"total": "$4,842,000,000",
+					"perCapita": "$32,480"
+				},
+
+				"exports": [
+
+					"motorVehicles",  
+					"electronics", 
+					"machineTools", 
+					"steel&NonferrousMetals", 
+					"ships", 
+					"chemicalSubstances", 
+					"textiles", 
+					"processedFoods"
+				],
+
+				"inports": [
+
+					"machinery&Equipment", 
+					"fossilFuels", 
+					"foodstuffs(in particular beef)", 
+					"chemicals", 
+					"textiles",  
+					"rawMaterialsForIndustries"
+				],
+			},
+
+			"food": "sushi!!!",
+
+			"Languages": {
+
+					"primaryLanguage": "japanese",
+
+					"otherLanguages": [
+
+						"Aynu Itak",
+						"Ryukyuan languages",
+						"Amami",
+						"Kikai",
+						"Kunigami",
+						"Miyako",
+						"Okinawan",
+						"Okinoerabu",
+						"Tokunoshima",
+						"Yaeyama",
+						"Yonaguni",
+						"Yoron"
+					]
+			},
+
+			"islands": {
+
+				"numberOfIslands": "<6,000",
+
+				"mainIslands": [
+
+					"Hokkaido",
+					"Honshu",
+					"Shikoku",
+					"Kyushu"
+				]
+			}
+		}
+	}
+}
+	
